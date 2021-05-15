@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'Library.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'library',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'NAME': 'library',  # snehal123$Library
+        'USER': 'root',#snehal123
+        'PASSWORD': 'root', # Swapnil@8
+        'HOST': 'localhost', # snehal123.mysql.pythonanywhere-services.com
         'PORT': '3306',
     }
 }

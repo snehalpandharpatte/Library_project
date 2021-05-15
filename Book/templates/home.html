@@ -19,11 +19,10 @@
         Book Quantity: <input type="number" name="qty" value="{{book.qty}}" required><br><br>
         Book Price: <input type= "number" name="price" value="{{book.price}}" required><br><br>
         {% if book.is_published %}
-            Book Published: <input type="radio" name="pub" checked><br><br>
-           
+            Book Published: <input type="radio"  name="pub" checked>is_published<br><br>
+            
         {% else %}
-            Book Published: <input type="radio" name="pub"><br><br>
-
+            Book Published: <input type="radio"  name="pub"><br><br>
         {% endif %}
 
         {% if book %}
@@ -58,7 +57,7 @@
             <td>{{b.author}}</td>
             <td>{{b.qty}}</td>
             <td>{{b.price}}</td>
-            <td>{{b.is_published}}</td>               
+            <td>{{b.is_Published}}</td>               
             <td>
                
 
