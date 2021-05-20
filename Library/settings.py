@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-9$%9agb95c)u%mrtvnvfjy$na*1r3n+lm-p1ibz16v7b0)jk8+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = True   #True=during development, False= during production
 
 ALLOWED_HOSTS = []
 
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',# no models required
     'django.contrib.staticfiles', # no models required
     'Book', #user defined
-
+    'second',
 ]
 
 MIDDLEWARE = [
@@ -134,3 +134,77 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+
+import os
+import logging
+# from logging.handlers import TimedRotatingFileHandler
+# from logging.handlers import RotatingFileHandler
+
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'simple': {
+            'format': '[%(asctime)s]---[%(levelname)s]---%(message)s',
+            'datefmt': '%Y-%m-%d %H:%M:%S'
+            },
+        'complex': {
+            'format': '%(asctime)s---%(process)d---[%(levelname)s]---%(message)s',
+            'datefmt': '%d:%b:%Y %H:%M:%S %p'
+            },
+        },
+
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'level':'INFO',
+        },
+        'f_file': {
+            'class': 'logging.FileHandler',
+            'level':'DEBUG',
+            'filename': "H:\\snehal\\Django\\Library\\logs\\first.log",
+            'formatter': 'simple'
+        },
+        's_file': {
+            'class': 'logging.FileHandler',
+            'level':'DEBUG',
+            'filename': "H:\\snehal\\Django\\Library\\logs\\second.log",
+            'formatter': 'complex'
+        },
+        'timed_rotate': {
+            'level': 'DEBUG',
+            'class': 'logging.handlers.TimedRotatingFileHandler',
+            'filename': "H:\\snehal\\Django\\Library\\logs\\timed_rotate.log",
+            'when' : 'S', 
+            'interval':1,
+            'backupCount' : 5,
+            'formatter': 'complex'
+        },
+        'rotate_file': {
+            'level': 'DEBUG',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'filename': "H:\\snehal\\Django\\Library\\logs\\rotate_file.log",
+            'maxBytes': 50, 
+            'backupCount': 5,
+            'formatter': 'simple'
+        },
+    },
+
+    'loggers': {
+        'first': {
+            'handlers': ['console', 'f_file'],   # timed_rotate 
+            'level': os.getenv('DJANGO_LOG_LEVEL', 'DEBUG'),
+            'propagate': False,
+        },
+
+        'second': {
+            'handlers': ['console', 'rotate_file'],   #complex=s_file  timed_rotate
+            'level': os.getenv('DJANGO_LOG_LEVEL', 'DEBUG'),
+            'propagate': False,
+        },
+    },
+
+}
