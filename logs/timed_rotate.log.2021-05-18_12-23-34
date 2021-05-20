@@ -1,0 +1,6 @@
+18:May:2021 12:23:34 PM---10632---[INFO]-----------------7---------------
+18:May:2021 12:23:34 PM---10632---[DEBUG]---This debug level
+18:May:2021 12:23:34 PM---10632---[INFO]---This info level
+18:May:2021 12:23:34 PM---10632---[WARNING]---This warning level
+18:May:2021 12:23:34 PM---10632---[ERROR]---This error level
+18:May:2021 12:23:34 PM---10632---[CRITICAL]---This critical level

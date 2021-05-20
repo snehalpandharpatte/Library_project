@@ -1,0 +1,189 @@
+
+[2021-05-16 18:41:43]---[INFO]---In homepage view
+[2021-05-16 18:41:43]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>]>
+[2021-05-18 11:32:36]---[INFO]---In homepage view
+[2021-05-18 11:32:36]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 11:40:01]---[INFO]---In homepage view
+[2021-05-18 11:40:01]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 11:41:23]---[INFO]---In homepage view
+[2021-05-18 11:41:23]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 11:43:25]---[INFO]---In homepage view
+[2021-05-18 11:43:25]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 11:47:51]---[INFO]---In homepage view
+[2021-05-18 11:47:51]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 11:59:30]---[INFO]---In homepage view
+[2021-05-18 11:59:30]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 12:01:35]---[INFO]---In homepage view
+[2021-05-18 12:01:35]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-18 12:28:48]---[INFO]---In homepage view
+[2021-05-18 12:28:48]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:27:22]---[INFO]---In homepage view
+[2021-05-20 11:27:23]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:27:24]---[INFO]---In homepage view
+[2021-05-20 11:27:24]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:31:20]---[INFO]---In homepage view
+[2021-05-20 11:31:20]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:31:23]---[INFO]---In homepage view
+[2021-05-20 11:31:23]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:31:48]---[INFO]---In homepage view
+[2021-05-20 11:31:48]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:31:50]---[INFO]---In homepage view
+[2021-05-20 11:31:50]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:32:34]---[INFO]---In homepage view
+[2021-05-20 11:32:34]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:32:46]---[INFO]---In homepage view
+[2021-05-20 11:32:46]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:34:01]---[INFO]---In homepage view
+[2021-05-20 11:34:01]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:36:51]---[INFO]---In homepage view
+[2021-05-20 11:36:51]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:37:19]---[INFO]---In homepage view
+[2021-05-20 11:37:19]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:37:59]---[INFO]---In homepage view
+[2021-05-20 11:37:59]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:38:01]---[INFO]---In homepage view
+[2021-05-20 11:38:01]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:38:13]---[INFO]---In homepage view
+[2021-05-20 11:38:13]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:38:21]---[INFO]---In homepage view
+[2021-05-20 11:38:22]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:39:25]---[INFO]---In homepage view
+[2021-05-20 11:39:25]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:39:26]---[INFO]---In homepage view
+[2021-05-20 11:39:26]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:03]---[INFO]---In homepage view
+[2021-05-20 11:40:03]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:05]---[INFO]---In homepage view
+[2021-05-20 11:40:05]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:48]---[INFO]---In homepage view
+[2021-05-20 11:40:48]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:49]---[INFO]---In homepage view
+[2021-05-20 11:40:49]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:49]---[INFO]---In homepage view
+[2021-05-20 11:40:49]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:40:50]---[INFO]---In homepage view
+[2021-05-20 11:40:50]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:42:09]---[INFO]---In homepage view
+[2021-05-20 11:42:09]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:42:45]---[INFO]---In homepage view
+[2021-05-20 11:42:45]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:47:23]---[INFO]---In homepage view
+[2021-05-20 11:47:23]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:52:05]---[INFO]---In homepage view
+[2021-05-20 11:52:05]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:52:07]---[INFO]---In homepage view
+[2021-05-20 11:52:07]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:54:53]---[INFO]---In homepage view
+[2021-05-20 11:54:53]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 11:54:55]---[INFO]---In homepage view
+[2021-05-20 11:54:55]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:00:35]---[INFO]---In homepage view
+[2021-05-20 12:00:35]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:00:45]---[INFO]---In homepage view
+[2021-05-20 12:00:46]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:00:59]---[INFO]---In homepage view
+[2021-05-20 12:00:59]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:01:13]---[INFO]---In homepage view
+[2021-05-20 12:01:13]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:01:37]---[INFO]---In homepage view
+[2021-05-20 12:01:37]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:03:19]---[INFO]---In homepage view
+[2021-05-20 12:03:19]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:03:35]---[INFO]---In homepage view
+[2021-05-20 12:03:35]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:05:51]---[INFO]---In homepage view
+[2021-05-20 12:05:51]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:08:43]---[INFO]---In homepage view
+[2021-05-20 12:08:43]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:09:33]---[INFO]---In homepage view
+[2021-05-20 12:09:33]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:09:56]---[INFO]---In homepage view
+[2021-05-20 12:09:56]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:11:30]---[INFO]---In homepage view
+[2021-05-20 12:11:30]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:14:45]---[INFO]---In homepage view
+[2021-05-20 12:14:45]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:15:19]---[INFO]---In homepage view
+[2021-05-20 12:15:19]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:16:02]---[INFO]---In homepage view
+[2021-05-20 12:16:03]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:16:44]---[INFO]---In homepage view
+[2021-05-20 12:16:44]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:16:57]---[INFO]---In homepage view
+[2021-05-20 12:16:57]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:22:32]---[INFO]---In homepage view
+[2021-05-20 12:22:32]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:24:16]---[INFO]---In homepage view
+[2021-05-20 12:24:16]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:24:17]---[INFO]---In homepage view
+[2021-05-20 12:24:17]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:24:17]---[INFO]---In homepage view
+[2021-05-20 12:24:17]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:24:40]---[INFO]---In homepage view
+[2021-05-20 12:24:40]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:25:15]---[INFO]---In homepage view
+[2021-05-20 12:25:15]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:25:26]---[INFO]---In homepage view
+[2021-05-20 12:25:26]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:28:02]---[INFO]---In homepage view
+[2021-05-20 12:28:02]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:28:34]---[INFO]---In homepage view
+[2021-05-20 12:28:34]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:29:08]---[INFO]---In homepage view
+[2021-05-20 12:29:08]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:29:09]---[INFO]---In homepage view
+[2021-05-20 12:29:09]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:33:48]---[INFO]---In homepage view
+[2021-05-20 12:33:48]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:34:46]---[INFO]---In homepage view
+[2021-05-20 12:34:46]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:36:29]---[INFO]---In homepage view
+[2021-05-20 12:36:29]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:02]---[INFO]---In homepage view
+[2021-05-20 12:45:02]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:03]---[INFO]---In homepage view
+[2021-05-20 12:45:03]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:04]---[INFO]---In homepage view
+[2021-05-20 12:45:04]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:04]---[INFO]---In homepage view
+[2021-05-20 12:45:04]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:04]---[INFO]---In homepage view
+[2021-05-20 12:45:04]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:45:50]---[INFO]---In homepage view
+[2021-05-20 12:45:50]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:49:06]---[INFO]---In homepage view
+[2021-05-20 12:49:06]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:50:45]---[INFO]---In homepage view
+[2021-05-20 12:50:45]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:50:46]---[INFO]---In homepage view
+[2021-05-20 12:50:46]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:50:47]---[INFO]---In homepage view
+[2021-05-20 12:50:47]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:51:12]---[INFO]---In homepage view
+[2021-05-20 12:51:12]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:52:02]---[INFO]---In homepage view
+[2021-05-20 12:52:02]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:52:20]---[INFO]---In homepage view
+[2021-05-20 12:52:21]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:53:15]---[INFO]---In homepage view
+[2021-05-20 12:53:15]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:53:35]---[INFO]---In homepage view
+[2021-05-20 12:53:35]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:54:54]---[INFO]---In homepage view
+[2021-05-20 12:54:54]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:55:28]---[INFO]---In homepage view
+[2021-05-20 12:55:28]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:56:03]---[INFO]---In homepage view
+[2021-05-20 12:56:03]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:56:40]---[INFO]---In homepage view
+[2021-05-20 12:56:40]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:58:04]---[INFO]---In homepage view
+[2021-05-20 12:58:04]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:58:52]---[INFO]---In homepage view
+[2021-05-20 12:58:52]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:59:22]---[INFO]---In homepage view
+[2021-05-20 12:59:22]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 12:59:36]---[INFO]---In homepage view
+[2021-05-20 12:59:36]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
+[2021-05-20 13:00:28]---[INFO]---In homepage view
+[2021-05-20 13:00:28]---[INFO]---All books data: <QuerySet [<Book: 41---Java ---ABCD>, <Book: 42---Python ---DEFG>, <Book: 56---wings of fire ---APJ Kalam>, <Book: 62---ABC ---AAA>, <Book: 63---DEF ---AAA>, <Book: 64---java ---fdfdsf>, <Book: 65---python ---regffd>]>
