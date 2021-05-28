@@ -19,7 +19,7 @@ from Book import views
 from second import views as second_views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('admin/', admin.site.urls),  #by default
     path('home/', views.homepage, name='welcome'),
     path('save-book/', views.save_book),
     path('edit-book/<int:id>/', views.edit_book),

@@ -3,13 +3,16 @@ from django.http import HttpResponse
 from Book.models import Book
 
 # Create your views here.
+#DTL ---Django Templating Language
+#dynamic data- backend data show on html page by using {{books(pass key)}}
+#{for any condition}
 
 import logging
 import time
 logger = logging.getLogger("first")
 # logger.info("In homepage view")
 
-def homepage(request):
+def homepage(request):  #request --httprequest, user defined function
     logger.info("In homepage view")
     # all_books = Book.objects.all().filter(is_deleted='N')
     all_books = Book.active_objects.all() # through custom manager

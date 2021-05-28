@@ -11,7 +11,7 @@
           border: 3px solid black;
         }
         body {
-            background-color: gray;
+            background-color: grey;
         }
         </style>
     </head>
@@ -28,7 +28,6 @@
         {% if book %}
         <form action="/users" method="post"><div style="margin:0;padding:0">
         <div style="float:left;"> 
-            <div class="col-xs-3 col-sm-2">
             <label for="Book ID">Book ID:</label>
             <input  type= "Book ID" value="{{book.id}}" placeholder="Enter Book ID"name="id" required>
             </div>
@@ -52,27 +51,29 @@
         </div>
         <div style="float:left;">
          {% if book.is_published %}
-            Book Published: <input type="radio"  name="pub" checked>is_published><br><br>
+            <label for="Book Published"> Book Published:</label>
+            <input type="radio"  name="pub" checked>is_published><br><br>
         {% else %}
-            Book Published: <input type="radio"  name="pub"><br><br>
+            <label for="Book Published"> Book Published:</label>
+            <input type="radio"  name="pub"><br><br>
         {% endif %}
         </div>
         <div style="float:left;">
         {% if book %}
-            <input type="submit" value="Update Book">
+            <input button type="submit" class="btn btn-primary" type="submit" value="Update Book">
         {% else %}
-            <input type="submit" value="Add Book">
+            <input button type="submit" class="btn btn-info" type="submit" value="Add Book">
         {% endif %}
         </div>
     </fieldset>
     </form>
     <fieldset>
-        <div class="center">
-        <h3>All Books</h3>
+        <div>
+        <h3 class="center" style="background-color:green;" >All Books</h3>
         </div><br><br>
         <a href="/show-deleted-data/" button type="submit" class="btn btn-danger">Show Deleted data</a>
         <a href="/all-delete-book/" type="button" class="btn btn-warning"> Delete ALL</a>
-        <a href="/all-restore-book/" type="button" class="btn btn-secondary"> Restore ALL</a>
+        <a href="/all-restore-book/" type="button" class="btn btn-success"> Restore ALL</a>
         <a href="/home/" type="button" class="btn btn-info">Home Page </a> <br><br>
    
     <table border="2" class="table table-bordered">

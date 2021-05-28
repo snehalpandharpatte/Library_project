@@ -22,16 +22,16 @@ class Book(models.Model):
     inactive_objects = BookInactiveManager() 
     objects = models.Manager()
     
-    def __str__(self):
+    def __str__(self):  #to represent string representation
         return f"{self.id}---{self.name} ---{self.author}"
 
-    class Meta:
+    class Meta:  #change table name in database
         
         db_table = "bookinfo"
 
 # app name - small case
 # create table book_book(id unique AUTO-INCREMENT, name varchar(100), author varchar(100), qty int, price float)
-
+#sqlmigrate shows sql queries
 '''
 (denv) H:\snehal\Django\Library>python manage.py shell
 Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
